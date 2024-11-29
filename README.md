@@ -1,50 +1,9 @@
-# Welcome to your Expo app 👋
+# ReanimatedTest
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a test app created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) and [`react-native-reanimated`](https://github.com/software-mansion/react-native-reanimated) to confirm that React Native Reanimated works on Fire OS devices.
 
-## Get started
+https://github.com/user-attachments/assets/a4fbc55e-8246-43d5-858c-2c68f5983ccd
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![Screenshot_20241127-100132](https://github.com/user-attachments/assets/8f1b9d78-a48e-403d-8276-eaeb63828114)
+![Screenshot_20241127-100136](https://github.com/user-attachments/assets/06a00fc7-09bd-4548-a1b6-655956923d2f)
+![Screenshot_20241127-100128](https://github.com/user-attachments/assets/fdf69650-5ceb-449e-b22e-3704a999dfd2)
